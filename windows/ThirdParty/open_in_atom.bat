@@ -1,3 +1,3 @@
 @echo on
 
-call %ATOM_HOME%atom.exe "%~1"
+call "%ATOM_HOME%\atom.exe" "%~1"
